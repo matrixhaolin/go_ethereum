@@ -6,16 +6,3 @@ All AI features announced are provided in the form based on Agent Specification.
 
 We plan to optimize our internal feature modules using the custom AI functions. Python version of these codes have already been finished, waiting for proper data sources to perform optimization on.
 
-
-Credits
-=======
-+Thanks to everyone who directly contributed to this release:
-  
-- Bill Lee
-- Yanqiang Lee
-- Xuyang Wang
-- Cao Ao
-- Xuelong Sun
-- Zheng He
-- Shaoqing Long
-- Allen Hao
